@@ -9,7 +9,9 @@ With over 7 years of experience in backend development (C#, .NET Core, SQL, AWS/
 💼 Based in London on a Youth Mobility Visa (valid until Feb 2026), I’m open to 𝗼𝗻-𝘀𝗶𝘁𝗲 𝗮𝗻𝗱 𝗵𝘆𝗯𝗿𝗶𝗱 𝗿𝗼𝗹𝗲𝘀 across the UK. Also open to 𝗦𝗸𝗶𝗹𝗹𝗲𝗱 𝗪𝗼𝗿𝗸𝗲𝗿 𝘃𝗶𝘀𝗮 𝘀𝗽𝗼𝗻𝘀𝗼𝗿𝘀𝗵𝗶𝗽.
 
 📄 CV: \
-https://www.linkedin.com/in/chiahuichou168/overlay/1746287036972/single-media-viewer/?profileId=ACoAACNrYJcBPeUM7zyRmAYdpVloZZzwiIFv6QM \
+https://drive.google.com/file/d/1xTv14S5qCGZKDsSsdSz_r80jTSnPXU0K/view?usp=drive_link \
+📰 LinkedIn: \
+https://www.linkedin.com/in/chia-hui-chou-81b014147/ \
 🎮 itch.io: \
 https://chiaburn.itch.io \
 📫 e-mail: \
